@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">APexercise4b</string>
+    <string name="app_title">Welcome to</string>
+    <string name="app_title2">HanaDulSet</string>
+    <string name="app_username">Username</string>
+    <string name="app_password">Password</string>
+    <string name="app_login">Login Now</string>
+    <string name="app_forgetPassword">Forget Password?</string>
+    <string name="app_donthaveanAccount">Don\'t have an account? Sign Up</string>
+    <string name="app_welcome">Welcome</string>
+    <string name="app_description">Learn Korean - Your Gateway to Korean Language</string>
+    <string name="app_logintoyouraccount">LOGIN</string>
+    <string name="app_welcome2">Welcome Back</string>
+    <string name="app_welcomeName">Mary Claire</string>
+</resources>
